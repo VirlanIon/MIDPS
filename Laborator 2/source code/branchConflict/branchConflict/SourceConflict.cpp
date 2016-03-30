@@ -3,9 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Branch-ul master" << endl;
-
-	cout << "Crearea unui conflict intre branch" << endl;
+	cout << "Conflictul a fost rezolvat"<<endl;
 
 	return 0;
 }
