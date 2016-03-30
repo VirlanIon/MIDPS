@@ -1,1 +1,0 @@
-g++ SourceProgram.cpp -o SourceProgram.exe
