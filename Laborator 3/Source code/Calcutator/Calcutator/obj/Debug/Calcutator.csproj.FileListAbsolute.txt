@@ -1,0 +1,18 @@
+C:\Users\Virlan Ion Petru\Desktop\INCERCARI\C#\Calcutator\Calcutator\bin\Debug\Calcutator.exe.config
+C:\Users\Virlan Ion Petru\Desktop\INCERCARI\C#\Calcutator\Calcutator\bin\Debug\Calcutator.exe
+C:\Users\Virlan Ion Petru\Desktop\INCERCARI\C#\Calcutator\Calcutator\bin\Debug\Calcutator.pdb
+C:\Users\Virlan Ion Petru\Desktop\INCERCARI\C#\Calcutator\Calcutator\obj\Debug\Calcutator.csprojResolveAssemblyReference.cache
+C:\Users\Virlan Ion Petru\Desktop\INCERCARI\C#\Calcutator\Calcutator\obj\Debug\Calcutator.Form1.resources
+C:\Users\Virlan Ion Petru\Desktop\INCERCARI\C#\Calcutator\Calcutator\obj\Debug\Calcutator.Properties.Resources.resources
+C:\Users\Virlan Ion Petru\Desktop\INCERCARI\C#\Calcutator\Calcutator\obj\Debug\Calcutator.csproj.GenerateResource.Cache
+C:\Users\Virlan Ion Petru\Desktop\INCERCARI\C#\Calcutator\Calcutator\obj\Debug\Calcutator.exe
+C:\Users\Virlan Ion Petru\Desktop\INCERCARI\C#\Calcutator\Calcutator\obj\Debug\Calcutator.pdb
+D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 3\Source code\Calcutator\Calcutator\bin\Debug\Calcutator.exe.config
+D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 3\Source code\Calcutator\Calcutator\obj\Debug\Calcutator.exe
+D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 3\Source code\Calcutator\Calcutator\obj\Debug\Calcutator.pdb
+D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 3\Source code\Calcutator\Calcutator\bin\Debug\Calcutator.exe
+D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 3\Source code\Calcutator\Calcutator\bin\Debug\Calcutator.pdb
+D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 3\Source code\Calcutator\Calcutator\obj\Debug\Calcutator.csprojResolveAssemblyReference.cache
+D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 3\Source code\Calcutator\Calcutator\obj\Debug\Calcutator.Form1.resources
+D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 3\Source code\Calcutator\Calcutator\obj\Debug\Calcutator.Properties.Resources.resources
+D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 3\Source code\Calcutator\Calcutator\obj\Debug\Calcutator.csproj.GenerateResource.Cache
