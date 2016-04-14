@@ -22,9 +22,8 @@ namespace Calcutator
 
           private void Form1_Load(object sender, EventArgs e)
           {
-
+               
           }
-
           private void button_click(object sender, EventArgs e)
           {
                if ((textBox_Result.Text == "0") || (isOperationPerfomed))
@@ -32,16 +31,22 @@ namespace Calcutator
 
                isOperationPerfomed = false;
                Button button = (Button)sender;
+               if (button.Text == ",")
+               {
+                    if (!textBox_Result.Text.Contains(","))
+                         textBox_Result.Text = textBox_Result.Text + button.Text;
+
+               }else
                textBox_Result.Text = textBox_Result.Text + button.Text;
           }
 
           private void operator_click(object sender, EventArgs e)
           {
                Button button = (Button)sender;
-               operationPerfomed = button.Text;
-               resultValue = Double.Parse(textBox_Result.Text);
-               labelCurrentOperation.Text = resultValue + " " + operationPerfomed;
-               isOperationPerfomed = true;
+                    operationPerfomed = button.Text;
+                    resultValue = Double.Parse(textBox_Result.Text);
+                    labelCurrentOperation.Text = resultValue + " " + operationPerfomed;
+                    isOperationPerfomed = true;                                       
           }
 
           private void button5_Click(object sender, EventArgs e)
@@ -71,9 +76,30 @@ namespace Calcutator
                     case "/":
                          textBox_Result.Text = (resultValue / Double.Parse(textBox_Result.Text)).ToString();
                          break;
+                    case "sqrt":
+                         textBox_Result.Text = (Math.Sqrt(Double.Parse(textBox_Result.Text))).ToString();
+                         break;
+                    case "^":
+                         textBox_Result.Text = Math.Pow(resultValue, Double.Parse(textBox_Result.Text)).ToString();     
+                         break;
                     default:
                          break;
                }
+               resultValue = Double.Parse(textBox_Result.Text);
+               labelCurrentOperation.Text = "";
+          }
+
+          private void button21_Click(object sender, EventArgs e)
+          {
+               if (textBox_Result.Text.Contains("-"))
+                    textBox_Result.Text = textBox_Result.Text.Remove(0, 1);
+               else
+                    textBox_Result.Text = "-" + textBox_Result.Text;
+          }
+
+          private void textBox_Result_TextChanged(object sender, EventArgs e)
+          {
+
           }
      }
 }
