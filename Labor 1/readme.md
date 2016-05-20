@@ -1,3 +1,0 @@
-a) Însuşirea modului de utilizare a celor mai importante componente ale mediului integrat C++ BUILDER . Realizarea unui program simplu care utilizează componente de tip TButton, TEdit, Tlabel, RadioButton etc.
-b) Însuşirea modului de utilizare a componentei VCL TTimer. Însuşirea modului de utilizare a funcţiilor de lucru cu timpul sistem. Realizarea unor aplicaţii de gestionare a resursei timp.
-c) Însuşirea modului de utilizare a componentelor VCL TPaintBox şi TPanel. Însuşirea modului de utilizare a principalelor funcţii grafice ale mediului C++BUILDER . Realizarea unor elemente pentru afişarea grafică a informaţiei (diagramă şi bargraf).
