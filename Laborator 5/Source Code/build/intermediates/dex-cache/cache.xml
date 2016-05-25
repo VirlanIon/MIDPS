@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 5\Source code\game\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8f6c73ff88d71ccc543f72457798b1670c514519">
+        <dex dex="D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 5\Source code\game\android\build\intermediates\pre-dexed\debug\core-1.0_609f18370ac0070e145a0bc56083f916d27c98b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Virlan Ion Petru\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.3\1a3775429980a6c8da0cdefb656ad1dabf91d629\gdx-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1a3775429980a6c8da0cdefb656ad1dabf91d629">
+        <dex dex="D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 5\Source code\game\android\build\intermediates\pre-dexed\debug\gdx-1.9.3_9ab1f5a993aac07ce3f174d0d2887ee6c336d41b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Virlan Ion Petru\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.3\c45573bf68b55442990936f007e7d6823d259c1f\gdx-backend-android-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c45573bf68b55442990936f007e7d6823d259c1f">
+        <dex dex="D:\Documente\utm\Laboratoare\MIDPS\Luc. lab. 5\Source code\game\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.3_34abe9a40f7ab9bca69cf667889a4cdd8612e7d8.jar" />
+    </item>
+
+</items>
